@@ -64,5 +64,5 @@ After-
 
 ### **Author:** Souhridya Patra
 For queries, contact: [GMail](mailto:souhridyapatra.2005@gmail.com); 
-[LinkedIN](www.linkedin.com/in/souhridyapatra); 
-[X](www.x.com/souhridyapatra)
+[LinkedIN](https://www.linkedin.com/in/souhridyapatra); 
+[X](https://www.x.com/souhridyapatra)
