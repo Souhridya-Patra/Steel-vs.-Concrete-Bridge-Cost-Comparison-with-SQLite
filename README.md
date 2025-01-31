@@ -59,5 +59,5 @@ pip install PyQt5 matplotlib sqlite3
 ---
 
 ### **Author:** Souhridya Patra
-For queries, contact: [your-email@example.com](mailto:souhridyapatra.2005@gmail.com)
+For queries, contact: [GMail](mailto:souhridyapatra.2005@gmail.com)
 
