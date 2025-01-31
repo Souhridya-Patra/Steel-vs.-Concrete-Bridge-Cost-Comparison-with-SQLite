@@ -32,7 +32,7 @@ Ensure you have Python installed (version 3.7 or higher).
 ### **Required Dependencies**
 Install the required Python libraries using:
 ```sh
-pip install PyQt5 matplotlib sqlite3
+pip install PyQt5 matplotlib sqlite3 tkinter
 ```
 
 ## Usage
@@ -51,7 +51,7 @@ pip install PyQt5 matplotlib sqlite3
 Before-
 ![GUI Screenshot](screenshots/gui.png)
 
-After
+After-
 ![GUI Screenshot](screenshots/gui2.png)
 
 ## Future Enhancements
