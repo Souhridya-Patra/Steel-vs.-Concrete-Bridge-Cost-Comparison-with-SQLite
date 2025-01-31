@@ -48,7 +48,11 @@ pip install PyQt5 matplotlib sqlite3
 6. Click **"Export Plot"** to save the cost comparison graph. 
 
 ## Screenshots
+Before-
 ![GUI Screenshot](screenshots/gui.png)
+
+After
+![GUI Screenshot](screenshots/gui2.png)
 
 ## Future Enhancements
 - Implement **more bridge types** for comparison.
